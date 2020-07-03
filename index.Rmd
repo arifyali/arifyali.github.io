@@ -1,8 +1,13 @@
 ---
-title: "Arif Ali"
 ---
-
 
 <img src="images/social_headshot.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
 
-Welcome to my Website, powered by R Markdown!
+Welcome to my personal website, powered by **R Markdown**! 
+
+## Current
+I'm a Data Scientist at Amazon and have been an Amazonian since 2016. My current role has me exploring the best way to route customer service requests. I've also worked within the the AWS Hardware Engineering role where I've had the good fun in 
+
+## Background
+I've been a member of the [#rstats](https://twitter.com/hashtag/rstats) since 2012 and have enjoyed every minute of it. I received my Masters degree from Georgetown University where I was advised by Dr. Todd Lean and Dr. Hans Engler.
+Prior to Georgetown, I received my Undergraduate Degree from the University of California, Berkeley and worked at SpoonRocket (defunct) and [Greatschools](https://www.greatschools.org/).
