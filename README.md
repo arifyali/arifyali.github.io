@@ -1,2 +1,2 @@
 # arifyali.github.io
-Personal Website power but RMD
+Personal Website power with RMD
