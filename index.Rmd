@@ -31,8 +31,8 @@ leaflet() %>%
 ```
 
 ## Background
-I've been a member of the [#rstats community](https://twitter.com/hashtag/rstats) since 2012 and have enjoyed every minute of it. I received my Masters degree from Georgetown University where I was advised by Dr. Todd Lean and Dr. Hans Engler.
-Prior to Georgetown, I received my Undergraduate Degree from the University of California, Berkeley and worked at SpoonRocket (defunct) and [Greatschools](https://www.greatschools.org/).
+I've been a member of the [#rstats community](https://twitter.com/hashtag/rstats) since 2012 and have enjoyed every minute of it. I received my Masters degree from Georgetown University where I was advised by [Dr. Todd Leen](https://nsf.gov/staff/staff_bio.jsp?lan=tleen&org=HRD&from_org=HRD) and [Dr. Hans Engler](https://gufaculty360.georgetown.edu/s/contact/00336000014RhGiAAK/hans-engler).
+Prior to Georgetown, I received my Undergraduate Degree from the University of California, Berkeley then worked at SpoonRocket (defunct) and [Greatschools](https://www.greatschools.org/).
 
 
 
