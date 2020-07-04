@@ -15,7 +15,7 @@ library(leaflet)
 Welcome to my personal website, powered by **R Markdown**! 
 
 ## Current Situation
-I'm a Data Scientist at Amazon and have been an Amazonian since 2016. My current role has me exploring the best way to route customer service requests. I've also worked within the the AWS Hardware Engineering role where I've had the good fun in. 
+I'm a Data Scientist at Amazon and have been an Amazonian since 2016. My current role has me exploring the best way to route customer service requests. I've also worked within the the AWS Hardware Engineering role where I've had the good fun in deploying a deeper understand in all things R such as writing complex, but pretty cool dplyr statements, R Shiny Dev Ops, and figuring out out to write data driven reporting via R Markdown. 
 
 
 
