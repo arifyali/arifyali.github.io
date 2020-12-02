@@ -15,7 +15,7 @@ library(leaflet)
 Welcome to my personal website, powered by **R Markdown**! 
 
 ## Current Situation
-Currently working within the D2AS (Device, Digital, and Alexa Support) as Data Scientist to learn a little more about Natural Language Processing. 
+Currently working within the D2AS (Device, Digital, and Alexa Support) organization at Amazon as Data Scientist to learn a little more about Natural Language Processing. 
 
 ## Background
 I've been an Amazonian since 2016. I've also worked within AWS Hardware Engineering where I've had the good fun in developing a deeper understanding of all things R such as writing complex, but pretty cool dplyr statements, R Shiny Dev Ops, and figuring out how to write data driven reporting via R Markdown. I was bored and decided to move my personal site from wordpress to [Github](https://github.com/arifyali/arifyali.github.io) and Google Domains on a long weekend in the middle of COVID-19. 
@@ -50,6 +50,6 @@ m
 ```
 
 ## All the Places I've Traveled (Coming Soon-ish)
-
+1. Planning on leverage {rvest} the [Instagram Basic Display API](https://developers.facebook.com/docs/instagram-basic-display-api), and the Google Place API to grab the geotags of my posts and map them out.
 
 
