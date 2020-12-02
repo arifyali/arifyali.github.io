@@ -28,10 +28,10 @@ I'm alway open to connecting and respectfully ask for adherence to the following
 
 1. Professional/Career Connections, reach out via LinkedIn.
 1. Engagement on an interesting topic (like R), reach out via Twitter.
-1. Open Source Collaboration, Github.
-1. Food, dogs, beer, and traveling, Instagram (if you can find it)!
+1. Open Source Collaboration, check out my (sparse) Github.
+1. Food, dogs, beer, and traveling, go to Instagram!
 
-## All the Places I've lived!
+## All the Places I've Lived!
 And a cool way to show off a little {dplyr}.
 ```{R places I have lived plus R stats fun, echo=FALSE}
 
@@ -49,7 +49,7 @@ m <- leaflet() %>%
 m
 ```
 
-
+## All the Places I've Traveled (Comming Soon-ish)
 
 
 
