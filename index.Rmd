@@ -20,9 +20,34 @@ Currently working within the D2AS (Device, Digital, and Alexa Support) as Data S
 ## Background
 I've been an Amazonian since 2016. I've also worked within AWS Hardware Engineering where I've had the good fun in deploying a deeper understand in all things R such as writing complex, but pretty cool dplyr statements, R Shiny Dev Ops, and figuring out how to write data driven reporting via R Markdown. I was bored and decided to move my personal site from wordpress to [Github](https://github.com/arifyali/arifyali.github.io) on a long weekend in the middle of COVID-19. 
 
-I've been a member of the [#rstats community](https://twitter.com/hashtag/rstats) since 2012 and have enjoyed every minute of it. I received my Masters degree from Georgetown University where I was advised by [Dr. Todd Leen](https://nsf.gov/staff/staff_bio.jsp?lan=tleen&org=HRD&from_org=HRD) and [Dr. Hans Engler](https://gufaculty360.georgetown.edu/s/contact/00336000014RhGiAAK/hans-engler).
+I've been a member of the [#rstats community](https://twitter.com/hashtag/rstats) since 2012 and have enjoyed every minute of it. I received my Master's degree from Georgetown University where I was advised by [Dr. Todd Leen](https://nsf.gov/staff/staff_bio.jsp?lan=tleen&org=HRD&from_org=HRD) and [Dr. Hans Engler](https://gufaculty360.georgetown.edu/s/contact/00336000014RhGiAAK/hans-engler).
 Prior to Georgetown, I received my Bachelor's degree from the University of California, Berkeley where I majored in Statistics and explored Public Policy.
 
+## Interested in Connecting?
+I'm alway open to connecting and respectfully ask for adherence to the following communication guidelines:
+
+1. Professional/Career Connections, reach out via LinkedIn.
+1. Engagement on an interesting topic (like R), reach out via Twitter.
+1. Open Source Collaboration, Github.
+1. Food, dogs, beer, and traveling, Instagram (if you can find it)!
+
+## All the Places I've lived!
+And a cool way to show off a little {dplyr}.
+```{R places I have lived plus R stats fun, echo=FALSE}
+
+
+m <- leaflet() %>%
+  addTiles() %>%  # Add default OpenStreetMap map tiles
+  addMarkers(lng=-97.3308, lat=32.7555, popup="The Birthplace of Me") %>%
+  addMarkers(lng=-81.4407, lat=41.2401, popup="Childhood") %>%
+  addMarkers(lng=-122.2869, lat=38.2975, popup="High School")  %>%
+  addMarkers(lng=-122.2601, lat=37.8712, popup="College")  %>%
+  addMarkers(lng=-77.0723, lat=38.9076, popup="Grad School") %>%
+  addMarkers(lng=-122.3401951, lat=47.6151, popup="Data Science Life")
+
+
+m
+```
 
 
 
