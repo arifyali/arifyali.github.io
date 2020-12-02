@@ -1,2 +1,3 @@
 # arifyali.github.io
-Personal Website power with RMD
+Personal Website built using RMD
+https://arifyali.com/
