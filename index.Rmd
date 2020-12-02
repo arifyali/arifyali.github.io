@@ -15,22 +15,11 @@ library(leaflet)
 Welcome to my personal website, powered by **R Markdown**! 
 
 ## Current Situation
-I'm a Data Scientist at Amazon and have been an Amazonian since 2016. My current role has me exploring the best way to route customer service requests. I've also worked within AWS Hardware Engineering where I've had the good fun in deploying a deeper understand in all things R such as writing complex, but pretty cool dplyr statements, R Shiny Dev Ops, and figuring out how to write data driven reporting via R Markdown. I was bored and decided to move my personal site from wordpress to [Github](https://github.com/arifyali/arifyali.github.io) on a long weekend in the middle of COVID-19. 
-
-
-
-
-
-### Home Base
-```{R where I life, echo = F}
-leaflet() %>%
-  setView(lat=47.6151106, lng=-122.342345, zoom = 16) %>% 
-  addTiles() %>%
-  addMarkers(lat=47.6151106, lng=-122.342345, popup="Home") 
-
-```
+Currently working within the D2AS (Device, Digital, and Alexa Support) as Data Scientist to learn a little more about Natural Language Processing. 
 
 ## Background
+I've been an Amazonian since 2016. I've also worked within AWS Hardware Engineering where I've had the good fun in deploying a deeper understand in all things R such as writing complex, but pretty cool dplyr statements, R Shiny Dev Ops, and figuring out how to write data driven reporting via R Markdown. I was bored and decided to move my personal site from wordpress to [Github](https://github.com/arifyali/arifyali.github.io) on a long weekend in the middle of COVID-19. 
+
 I've been a member of the [#rstats community](https://twitter.com/hashtag/rstats) since 2012 and have enjoyed every minute of it. I received my Masters degree from Georgetown University where I was advised by [Dr. Todd Leen](https://nsf.gov/staff/staff_bio.jsp?lan=tleen&org=HRD&from_org=HRD) and [Dr. Hans Engler](https://gufaculty360.georgetown.edu/s/contact/00336000014RhGiAAK/hans-engler).
 Prior to Georgetown, I received my Undergraduate Degree from the University of California, Berkeley then worked at SpoonRocket (defunct) and [Greatschools](https://www.greatschools.org/).
 
