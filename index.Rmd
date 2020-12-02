@@ -50,6 +50,11 @@ m
 ```
 
 ## All the Places I've Traveled (Coming Soon-ish)
-1. Planning on leverage {rvest} the [Instagram Basic Display API](https://developers.facebook.com/docs/instagram-basic-display-api), and the Google Place API to grab the geotags of my posts and map them out.
+
+Planning on leveraging the following:
+
+1. {rvest} 
+1. the [Instagram Basic Display API](https://developers.facebook.com/docs/instagram-basic-display-api)
+1. the Google Place API to grab the geotags of my posts and map them out.
 
 
