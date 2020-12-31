@@ -23,6 +23,13 @@ I've been an Amazonian since 2016. I've also worked within AWS Hardware Engineer
 I've been a member of the [#rstats community](https://twitter.com/hashtag/rstats) since 2012 and have enjoyed every minute of it. I received my Master's degree from Georgetown University where I was advised by [Dr. Todd Leen](https://nsf.gov/staff/staff_bio.jsp?lan=tleen&org=HRD&from_org=HRD) and [Dr. Hans Engler](https://gufaculty360.georgetown.edu/s/contact/00336000014RhGiAAK/hans-engler).
 Prior to Georgetown, I received my Bachelor's degree from the University of California, Berkeley where I majored in Statistics and explored Public Policy.
 
+## Outside of Work (COVID-19 Edition)
+1. COVID-19 forced me to [become a chef](https://www.instagram.com/stories/highlights/17858971267858352/?hl=en). Results are mixed.
+1. I got involved in the 2020 election by prototyping a mail-in dropoff tool in [R Shiny](https://arifyali.shinyapps.io/mail-in-ballot-dropoff/) and was able to work with volunteers via [Tech For Campaigns](https://techforcampaigns.org/) to make it a [full blown product](https://ballotdropoff.techforcampaigns.io/) (please note, the url redirects to iwillvote.com/locate)!
+1. Thinking of all the ways to use my vacation days once COVID is a manageable issue
+1. Got into mechanical keyboard building!
+
+
 ## Interested in Connecting?
 I'm always open to connecting and respectfully ask for adherence to the following communication guidelines:
 
@@ -48,13 +55,5 @@ m <- leaflet() %>%
 
 m
 ```
-
-## All the Places I've Traveled (Coming Soon-ish)
-
-Planning on leveraging the following:
-
-1. {rvest} 
-1. the [Instagram Basic Display API](https://developers.facebook.com/docs/instagram-basic-display-api)
-1. the Google Place API to grab the geotags of my posts and map them out.
 
 
