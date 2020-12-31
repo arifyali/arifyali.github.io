@@ -25,9 +25,10 @@ Prior to Georgetown, I received my Bachelor's degree from the University of Cali
 
 ## Outside of Work (COVID-19 Edition)
 1. COVID-19 forced me to [become a chef](https://www.instagram.com/stories/highlights/17858971267858352/?hl=en). Results are mixed.
-1. I got involved in the 2020 election by prototyping a mail-in dropoff tool in [R Shiny](https://arifyali.shinyapps.io/mail-in-ballot-dropoff/) and was able to work with volunteers via [Tech For Campaigns](https://techforcampaigns.org/) to make it a [full blown product](https://ballotdropoff.techforcampaigns.io/) (please note, the url redirects to iwillvote.com/locate)!
+1. I got involved in the 2020 election by prototyping a mail-in dropoff tool in [R Shiny](https://arifyali.shinyapps.io/mail-in-ballot-dropoff/) and was able to work with volunteers via [Tech For Campaigns](https://techforcampaigns.org/) to make it a [full blown product](https://ballotdropoff.techforcampaigns.io/) (please note, the url redirects to [iwillvote.com](iwillvote.com/locate))!
 1. Thinking of all the ways to use my vacation days once COVID is a manageable issue
 1. Got into mechanical keyboard building!
+1. Zoom workout classes are keeping me sane...
 
 
 ## Interested in Connecting?
