@@ -3,13 +3,13 @@ output_dir: "."
 navbar:
   title: "Arif Ali"
   right:
-    - icon: fa-github fa-lg
+    - icon: fab fa-github fa-lg
       href: http://github.com/arifyali
-    - icon: fa-twitter fa-lg
+    - icon: fab fa-twitter fa-lg
       href: https://twitter.com/arifyali
-    - icon: fa-linkedin fa-lg
+    - icon: fab fa-linkedin fa-lg
       href: https://www.linkedin.com/in/arifyali/
-    - icon: fa-instagram fa-lg
+    - icon: fab fa-instagram fa-lg
       href: https://www.instagram.com/arifyali/
 output:
   html_document:
