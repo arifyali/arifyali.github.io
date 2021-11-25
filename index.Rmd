@@ -10,7 +10,7 @@ library(leaflet)
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-<img src="images/social_headshot.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
+<img src="images/headshot.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
 
 Welcome to my personal website, powered by **R Markdown**! 
 
